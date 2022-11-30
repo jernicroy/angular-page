@@ -1,6 +1,6 @@
 # Angular on Netlify Quick Start Template    
-![angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
-
+<!-- ![angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
+ -->
 ## Table of Contents:
 
 - [Setup](#setup)
@@ -16,10 +16,10 @@
 
 ## Setup
 
-Clone this repo with one of these options:
+<!-- Clone this repo with one of these options:
 - Click the 'Deploy to Netlify' button above
 - Click the 'Use this template' button at the top of the page
-- Or via the command line `git clone https://github.com/netlify-templates/angular-quickstart`
+- Or via the command line `git clone https://github.com/netlify-templates/angular-quickstart` -->
 
 Then install the necessary packages and run the project locally to make sure everything works.
 
